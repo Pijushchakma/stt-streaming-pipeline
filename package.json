@@ -1,6 +1,6 @@
 {
   "name": "stt-streaming-pipeline",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a stt streaming pipeline, where you can record audio and simultaneously send those audios to remote server",
   "main": "index.js",
   "scripts": {

@@ -20,7 +20,7 @@ import { StartRecording, StopRecording } from "stt-streaming-pipeline";
 
 # Functions
 
-## StartRecording(chunk_duration, textBoxRef, socketUrl, punctuationUrl)
+### StartRecording(chunk_duration, textBoxRef, socketUrl, punctuationUrl)
 
 Starts recording audio from the device, chunks the audio into specified durations, and streams the audio chunks to the provided socket URL. If a reference to a textbox is provided, real-time transcription results are displayed in the textbox.
 
