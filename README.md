@@ -50,8 +50,8 @@ function App() {
       StartRecording(
         500,
         textBoxRef,
-        "https://voice.bangla.gov.bd:9394/",
-        "https://voice.bangla.gov.bd:9381/utils"
+        "your_socket_url",
+        "your_punctuation_url"
       );
     }
   };

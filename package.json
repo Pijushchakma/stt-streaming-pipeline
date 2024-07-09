@@ -1,6 +1,6 @@
 {
   "name": "stt-streaming-pipeline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a stt streaming pipeline, where you can record audio and simultaneously send those audios to remote server",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pijushchakma/test_npm_package.git"
+    "url": "https://github.com/Pijushchakma/stt-streaming-pipeline.git"
   },
   "keywords": [
-    "streaming","mic","audio chunk","wav"
+    "streaming",
+    "mic",
+    "audio chunk",
+    "wav"
   ],
   "author": "pijush",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pijushchakma/test_npm_package/issues"
+    "url": "https://github.com/Pijushchakma/stt-streaming-pipeline.git/issues"
   },
-  "homepage": "https://github.com/Pijushchakma/test_npm_package#readme",
+  "homepage": "https://github.com/Pijushchakma/stt-streaming-pipeline.git#readme",
   "dependencies": {
     "socket.io-client": "^4.7.5"
   }
-  
 }
